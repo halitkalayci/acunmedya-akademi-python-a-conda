@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Derin öğrenme modellerinde kütüphane olarak yalnızca `tensorflow` kullan. `pytorch` kütüphanesini kullanma.
+
+
+Makine öğrenmesi modellerinde regresyon problemleri için `random forest` algoritmasını kullan.
